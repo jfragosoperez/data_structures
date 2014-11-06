@@ -1,0 +1,10 @@
+*/RemoteSystemsTempFiles
+.DS_Store
+.metadata
+
+#IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+out
